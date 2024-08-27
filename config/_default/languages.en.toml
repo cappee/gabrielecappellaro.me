@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "Gabriele Cappellaro"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["proj"]
+  description = "Gabriele Cappelaro's portfolio"
+
+[params.author]
+  name = "Gabriele Cappellaro"
+  image = "img/IMG_5571.jpg"
+  headline = "Computer Science student at Sapienza"
+  bio = "Computer Science student at Sapienza"
+  links = [
+    { instagram = "https://instagram.com/gabrielecappellaro" },
+    { github = "https://github.com/cappee" },
+    { linkedin = "https://www.linkedin.com/in/gabriele-cappellaro-77ab19241/" },
+  ]
