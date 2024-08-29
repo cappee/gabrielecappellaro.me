@@ -1,5 +1,5 @@
-languageCode = "en"
-languageName = "English"
+languageCode = "it"
+languageName = "Italiano"
 languageDirection = "ltr"
 weight = 1
 
@@ -14,8 +14,8 @@ title = "Gabriele Cappellaro"
 [params.author]
   name = "Gabriele Cappellaro"
   image = "img/IMG_5571.jpg"
-  headline = "Computer Engineering student at Sapienza"
-  bio = "Computer Engineering student at Sapienza"
+  headline = "Studente di Ingegneria Informatica in Sapienza"
+  bio = "Studente di Ingegneria Informatica in Sapienza"
   links = [
     { instagram = "https://instagram.com/gabrielecappellaro" },
     { github = "https://github.com/cappee" },

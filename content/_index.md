@@ -8,7 +8,7 @@ title = ''
 I'm currently in erasmus at UPV in Valencia, Spain until late January.
 {{< /alert >}}
 
-Hello, my name is Gabriele Cappellaro and I am a computer science student at Sapienza University of Rome. 
+Hello, my name is Gabriele Cappellaro and I am a computer engineering student at Sapienza University of Rome. 
 
 I am passionate about technology and I love to learn new things. I am always looking for new challenges and opportunities to grow as a person and as a professional.
 
